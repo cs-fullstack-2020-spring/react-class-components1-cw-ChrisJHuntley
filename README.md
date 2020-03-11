@@ -1,4 +1,8 @@
 # Class components
+#### You should have named your react apps to align more with what they do (like bank-app and greeting-app) or called them what was explicitly stated in the readme. It's also a good practice to create a folder to hold all of your components in the scr folder. This isn't a requirement but we will more often than not create a folder. 
+#### You should have created two different components that do not accept parameters and display the messages stated in the read me.
+
+#### Score : 3/5
 
 # React Introduction Class Components 1 Classwork
 
